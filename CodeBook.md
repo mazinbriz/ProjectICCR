@@ -4,10 +4,13 @@
 
 ### 1.1 Fields in data set
 ```
- subject   Subject identifier ie the person undertaking the activities 
- activity  Activity categories as demonstrated in video https://www.youtube.com/watch?v=XOEN9W05_4A 
- measure   Measurement category 
- mean      Mean of the measurement values for this subject and activity 
+ kanji        image file of japanese term 
+ term         romanisation of japanese term 
+ english      english translation
+ description  description of operational definition
+ note         italicised note on description
+ example      example of term in practice
+ category     six categories and three subcategories
 ```
 
 
